@@ -1,0 +1,799 @@
+club,joueur,age,nationalite,valeur_marchande
+Manchester City,Gianluigi Donnarumma,27,Italy,€45.00m
+Manchester City,James Trafford,23,England,€25.00m
+Manchester City,Ederson,32,Brazil,€10.00m
+Manchester City,Stefan Ortega,33,Germany,€4.00m
+Manchester City,Marcus Bettinelli,34,England,€300k
+Manchester City,Marc Guéhi,25,England,€70.00m
+Manchester City,Rúben Dias,29,Portugal,€55.00m
+Manchester City,Abdukodir Khusanov,22,Uzbekistan,€50.00m
+Manchester City,Manuel Akanji,30,Switzerland,€17.00m
+Manchester City,John Stones,32,England,€12.00m
+Manchester City,Nathan Aké,31,Netherlands,€12.00m
+Manchester City,Max Alleyne,20,England,€8.00m
+Manchester City,Stephen Mfuni,18,England,€1.50m
+Manchester City,Kian Noble,19,England,-
+Manchester City,Kaden Braithwaite,18,England,-
+Manchester City,Josko Gvardiol,24,Croatia,€70.00m
+Manchester City,Nico O'Reilly,21,England,€70.00m
+Manchester City,Rayan Aït-Nouri,25,Algeria,€40.00m
+Manchester City,Matheus Nunes,27,Portugal,€50.00m
+Manchester City,Rico Lewis,21,England,€28.00m
+Manchester City,Rodri,30,Spain,€50.00m
+Manchester City,Nico González,24,Spain,€40.00m
+Manchester City,Kalvin Phillips,30,England,€2.50m
+Manchester City,Charlie Gray,20,England,-
+Manchester City,Tijjani Reijnders,27,Netherlands,€50.00m
+Manchester City,Sverre Nypan,19,Norway,€13.00m
+Manchester City,Mateo Kovacic,32,Croatia,€10.00m
+Manchester City,İlkay Gündoğan,35,Germany,€2.00m
+Manchester City,Jaden Heskey,20,England,€300k
+Manchester City,Floyd Samba,17,Germany,-
+Manchester City,Rayan Cherki,22,France,€90.00m
+Manchester City,Phil Foden,26,England,€70.00m
+Manchester City,Bernardo Silva,31,Portugal,€22.00m
+Manchester City,Divine Mukasa,18,England,€5.00m
+Manchester City,Jérémy Doku,24,Belgium,€75.00m
+Manchester City,Sávio,22,Brazil,€35.00m
+Manchester City,Reigan Heskey,18,England,-
+Manchester City,Tyrone Samba,18,England,-
+Manchester City,Antoine Semenyo,26,Ghana,€80.00m
+Manchester City,Oscar Bobb,22,Norway,€28.00m
+Manchester City,Ryan McAidoo,18,England,-
+Manchester City,Erling Haaland,25,Norway,€200.00m
+Manchester City,Omar Marmoush,27,Egypt,€50.00m
+Arsenal FC,David Raya,30,Spain,€30.00m
+Arsenal FC,Kepa Arrizabalaga,31,Spain,€5.00m
+Arsenal FC,Tommy Setford,20,England,€500k
+Arsenal FC,Jack Porter,17,England,€300k
+Arsenal FC,Alexéi Rojas,20,Colombia,€250k
+Arsenal FC,Khari Ranson,18,England,-
+Arsenal FC,William Saliba,25,France,€100.00m
+Arsenal FC,Gabriel,28,Brazil,€75.00m
+Arsenal FC,Piero Hincapié,24,Ecuador,€50.00m
+Arsenal FC,Cristhian Mosquera,22,Spain,€40.00m
+Arsenal FC,Jakub Kiwior,26,Poland,€35.00m
+Arsenal FC,Marli Salmon,16,England,€5.00m
+Arsenal FC,Jaden Dixon,19,England,€2.50m
+Arsenal FC,Riccardo Calafiori,24,Italy,€55.00m
+Arsenal FC,Jurriën Timber,25,Netherlands,€70.00m
+Arsenal FC,Ben White,28,England,€30.00m
+Arsenal FC,Josh Nichols,19,England,-
+Arsenal FC,Martín Zubimendi,27,Spain,€75.00m
+Arsenal FC,Myles Lewis-Skelly,19,England,€45.00m
+Arsenal FC,Christian Nørgaard,32,Denmark,€5.00m
+Arsenal FC,Ife Ibrahim,18,England,-
+Arsenal FC,Declan Rice,27,England,€120.00m
+Arsenal FC,Mikel Merino,30,Spain,€25.00m
+Arsenal FC,Louie Copley,19,England,€75k
+Arsenal FC,Martin Ødegaard,27,Norway,€65.00m
+Arsenal FC,Eberechi Eze,28,England,€65.00m
+Arsenal FC,Ethan Nwaneri,19,England,€35.00m
+Arsenal FC,Harrison Dudziak,20,England,-
+Arsenal FC,Gabriel Martinelli,25,Brazil,€45.00m
+Arsenal FC,Leandro Trossard,31,Belgium,€18.00m
+Arsenal FC,Charles Sagoe Jr,21,England,€1.50m
+Arsenal FC,Brando Bailey-Joseph,17,England,-
+Arsenal FC,Bukayo Saka,24,England,€110.00m
+Arsenal FC,Noni Madueke,24,England,€50.00m
+Arsenal FC,Max Dowman,16,England,€30.00m
+Arsenal FC,Viktor Gyökeres,28,Sweden,€65.00m
+Arsenal FC,Kai Havertz,27,Germany,€55.00m
+Arsenal FC,Gabriel Jesus,29,Brazil,€17.00m
+Arsenal FC,Andre Harriman-Annous,18,England,€1.00m
+Arsenal FC,Ceadach O'Neill,18,Northern Ireland,-
+Chelsea FC,Robert Sánchez,28,Spain,€22.00m
+Chelsea FC,Filip Jørgensen,24,Denmark,€15.00m
+Chelsea FC,Gabriel Slonina,22,United States,€3.00m
+Chelsea FC,Teddy Sharman-Lowe,23,England,€500k
+Chelsea FC,Max Merrick,20,England,-
+Chelsea FC,Ted Curd,20,England,-
+Chelsea FC,Levi Colwill,23,England,€50.00m
+Chelsea FC,Trevoh Chalobah,26,England,€40.00m
+Chelsea FC,Wesley Fofana,25,France,€28.00m
+Chelsea FC,Josh Acheampong,20,England,€25.00m
+Chelsea FC,Mamadou Sarr,20,Senegal,€22.00m
+Chelsea FC,Tosin Adarabioyo,28,England,€16.00m
+Chelsea FC,Benoît Badiashile,25,France,€15.00m
+Chelsea FC,Marc Cucurella,27,Spain,€50.00m
+Chelsea FC,Jorrel Hato,20,Netherlands,€40.00m
+Chelsea FC,Caleb Wiley,21,United States,€8.00m
+Chelsea FC,Landon Emenalo,18,England,-
+Chelsea FC,Reece James,26,England,€60.00m
+Chelsea FC,Malo Gusto,23,France,€35.00m
+Chelsea FC,Moisés Caicedo,24,Ecuador,€100.00m
+Chelsea FC,Andrey Santos,22,Brazil,€40.00m
+Chelsea FC,Roméo Lavia,22,Belgium,€22.00m
+Chelsea FC,Dário Essugo,21,Portugal,€15.00m
+Chelsea FC,Ollie Harrison,18,England,-
+Chelsea FC,Charlie Holland,16,England,-
+Chelsea FC,Enzo Fernández,25,Argentina,€90.00m
+Chelsea FC,Reggie Walsh,17,England,€500k
+Chelsea FC,Cole Palmer,24,England,€100.00m
+Chelsea FC,Facundo Buonanotte,21,Argentina,€12.00m
+Chelsea FC,Jamie Gittens,21,England,€30.00m
+Chelsea FC,Alejandro Garnacho,21,Argentina,€28.00m
+Chelsea FC,Tyrique George,20,England,€20.00m
+Chelsea FC,Jesse Derry,19,England,€2.00m
+Chelsea FC,Mykhaylo Mudryk,25,Ukraine,-
+Chelsea FC,Ryan Kavuma-McQueen,17,England,-
+Chelsea FC,Mathis Eboué,17,England,-
+Chelsea FC,Estêvão,19,Brazil,€80.00m
+Chelsea FC,Pedro Neto,26,Portugal,€60.00m
+Chelsea FC,João Pedro,24,Brazil,€80.00m
+Chelsea FC,Liam Delap,23,England,€28.00m
+Chelsea FC,Marc Guiu,20,Spain,€12.00m
+Chelsea FC,Shumaira Mheuka,18,England,€3.00m
+Liverpool FC,Giorgi Mamardashvili,25,Georgia,€28.00m
+Liverpool FC,Alisson,33,Brazil,€15.00m
+Liverpool FC,Freddie Woodman,29,England,€3.00m
+Liverpool FC,Ármin Pécsi,21,Hungary,€800k
+Liverpool FC,Harvey Davies,22,England,€500k
+Liverpool FC,Kornel Misciur,19,Poland,-
+Liverpool FC,Ibrahima Konaté,27,France,€45.00m
+Liverpool FC,Giovanni Leoni,19,Italy,€25.00m
+Liverpool FC,Virgil van Dijk,34,Netherlands,€15.00m
+Liverpool FC,Joe Gomez,29,England,€13.00m
+Liverpool FC,Amara Nallo,19,England,€1.00m
+Liverpool FC,Rhys Williams,25,England,€500k
+Liverpool FC,Wellity Lucky,20,Spain,-
+Liverpool FC,Carter Pinnington,19,England,-
+Liverpool FC,Mor Talla Ndiaye,18,Senegal,-
+Liverpool FC,Milos Kerkez,22,Hungary,€35.00m
+Liverpool FC,Andrew Robertson,32,Scotland,€7.00m
+Liverpool FC,Jeremie Frimpong,25,Netherlands,€35.00m
+Liverpool FC,Conor Bradley,22,Northern Ireland,€25.00m
+Liverpool FC,Calvin Ramsay,22,Scotland,€1.50m
+Liverpool FC,Ryan Gravenberch,24,Netherlands,€80.00m
+Liverpool FC,Wataru Endo,33,Japan,€4.00m
+Liverpool FC,Stefan Bajcetic,21,Spain,€4.00m
+Liverpool FC,Alexis Mac Allister,27,Argentina,€70.00m
+Liverpool FC,Curtis Jones,25,England,€35.00m
+Liverpool FC,Trey Nyoni,19,England,€8.00m
+Liverpool FC,James McConnell,21,England,€1.50m
+Liverpool FC,Tommy Pilling,21,England,-
+Liverpool FC,Michael Laffey,20,England,-
+Liverpool FC,Florian Wirtz,23,Germany,€100.00m
+Liverpool FC,Dominik Szoboszlai,25,Hungary,€100.00m
+Liverpool FC,Harvey Elliott,23,England,€20.00m
+Liverpool FC,Cody Gakpo,27,Netherlands,€60.00m
+Liverpool FC,Rio Ngumoha,17,England,€30.00m
+Liverpool FC,Trent Koné-Doherty,20,Ireland,€600k
+Liverpool FC,Mohamed Salah,34,Egypt,€22.00m
+Liverpool FC,Ben Gannon-Doak,20,Scotland,€15.00m
+Liverpool FC,Federico Chiesa,28,Italy,€13.00m
+Liverpool FC,Kaide Gordon,21,England,€800k
+Liverpool FC,Kieran Morrison,19,Northern Ireland,-
+Liverpool FC,Alexander Isak,26,Sweden,€85.00m
+Liverpool FC,Hugo Ekitiké,24,France,€80.00m
+Liverpool FC,Jayden Danns,20,England,€800k
+Liverpool FC,Keyrol Figueroa,19,Honduras,€500k
+Liverpool FC,Will Wright,18,England,-
+Tottenham Hotspur,Guglielmo Vicario,29,Italy,€18.00m
+Tottenham Hotspur,Antonín Kinský,23,Czech Republic,€15.00m
+Tottenham Hotspur,Brandon Austin,27,England,€500k
+Tottenham Hotspur,Luca Gunter,21,England,-
+Tottenham Hotspur,Luka Vuskovic,19,Croatia,€60.00m
+Tottenham Hotspur,Micky van de Ven,25,Netherlands,€50.00m
+Tottenham Hotspur,Cristian Romero,28,Argentina,€45.00m
+Tottenham Hotspur,Kevin Danso,27,Austria,€20.00m
+Tottenham Hotspur,Radu Drăgușin,24,Romania,€16.00m
+Tottenham Hotspur,Ashley Phillips,21,England,€7.00m
+Tottenham Hotspur,Kota Takai,21,Japan,€5.00m
+Tottenham Hotspur,Jun'ai Byfield,17,England,€3.00m
+Tottenham Hotspur,Ben Davies,33,Wales,€3.00m
+Tottenham Hotspur,James Rowswell,19,England,€1.00m
+Tottenham Hotspur,Malachi Hardy,18,England,-
+Tottenham Hotspur,Destiny Udogie,23,Italy,€30.00m
+Tottenham Hotspur,Souza,20,Brazil,€12.00m
+Tottenham Hotspur,Archie Gray,20,England,€35.00m
+Tottenham Hotspur,Pedro Porro,26,Spain,€35.00m
+Tottenham Hotspur,Djed Spence,25,England,€30.00m
+Tottenham Hotspur,Rodrigo Bentancur,29,Uruguay,€20.00m
+Tottenham Hotspur,João Palhinha,30,Portugal,€15.00m
+Tottenham Hotspur,Yves Bissouma,29,Mali,€10.00m
+Tottenham Hotspur,Lucas Bergvall,20,Sweden,€35.00m
+Tottenham Hotspur,Conor Gallagher,26,England,€32.00m
+Tottenham Hotspur,Pape Matar Sarr,23,Senegal,€30.00m
+Tottenham Hotspur,Callum Olusesi,19,England,€5.00m
+Tottenham Hotspur,Rio Kyerematen,21,England,-
+Tottenham Hotspur,Tye Hall,18,England,-
+Tottenham Hotspur,Xavi Simons,23,Netherlands,€40.00m
+Tottenham Hotspur,James Maddison,29,England,€20.00m
+Tottenham Hotspur,Dejan Kulusevski,26,Sweden,€17.00m
+Tottenham Hotspur,Luca Williams-Barnett,17,England,-
+Tottenham Hotspur,Mathys Tel,21,France,€22.00m
+Tottenham Hotspur,Wilson Odobert,21,France,€18.00m
+Tottenham Hotspur,Manor Solomon,26,Israel,€8.00m
+Tottenham Hotspur,Tynan Thompson,18,England,-
+Tottenham Hotspur,Mohammed Kudus,25,Ghana,€50.00m
+Tottenham Hotspur,Brennan Johnson,25,Wales,€30.00m
+Tottenham Hotspur,Yusuf Akhamrich,20,Morocco,€200k
+Tottenham Hotspur,Dominic Solanke,28,England,€28.00m
+Tottenham Hotspur,Richarlison,29,Brazil,€25.00m
+Tottenham Hotspur,Randal Kolo Muani,27,France,€20.00m
+Tottenham Hotspur,Dane Scarlett,22,England,€1.50m
+Tottenham Hotspur,James Wilson,19,Scotland,€1.20m
+Manchester United,Senne Lammens,23,Belgium,€35.00m
+Manchester United,André Onana,30,Cameroon,€10.00m
+Manchester United,Altay Bayındır,28,Türkiye,€5.00m
+Manchester United,Tom Heaton,40,England,€100k
+Manchester United,Leny Yoro,20,France,€50.00m
+Manchester United,Lisandro Martínez,28,Argentina,€40.00m
+Manchester United,Matthijs de Ligt,26,Netherlands,€30.00m
+Manchester United,Ayden Heaven,19,England,€30.00m
+Manchester United,Harry Maguire,33,England,€8.00m
+Manchester United,Tyler Fredricson,21,England,€3.00m
+Manchester United,Godwill Kukonki,18,England,-
+Manchester United,Luke Shaw,30,England,€8.00m
+Manchester United,Diego León,19,Paraguay,€4.00m
+Manchester United,Tyrell Malacia,26,Netherlands,€4.00m
+Manchester United,Diogo Dalot,27,Portugal,€30.00m
+Manchester United,Noussair Mazraoui,28,Morocco,€18.00m
+Manchester United,Manuel Ugarte,25,Uruguay,€25.00m
+Manchester United,Casemiro,34,Brazil,€6.00m
+Manchester United,Jim Thwaites,18,England,-
+Manchester United,Kobbie Mainoo,21,England,€70.00m
+Manchester United,Tyler Fletcher,19,Scotland,€1.50m
+Manchester United,Jack Moorhouse,20,Ireland,€100k
+Manchester United,Bruno Fernandes,31,Portugal,€35.00m
+Manchester United,Mason Mount,27,England,€25.00m
+Manchester United,Jack Fletcher,19,England,€1.50m
+Manchester United,Patrick Dorgu,21,Denmark,€35.00m
+Manchester United,Bryan Mbeumo,26,Cameroon,€75.00m
+Manchester United,Amad Diallo,23,Cote d'Ivoire,€45.00m
+Manchester United,Shea Lacey,19,England,€5.00m
+Manchester United,Bendito Mantato,18,England,€400k
+Manchester United,Matheus Cunha,27,Brazil,€75.00m
+Manchester United,Benjamin Šeško,23,Slovenia,€75.00m
+Manchester United,Joshua Zirkzee,25,Netherlands,€20.00m
+Manchester United,Chido Obi,18,Denmark,€5.00m
+Crystal Palace,Dean Henderson,29,England,€28.00m
+Crystal Palace,Walter Benítez,33,Argentina,€4.00m
+Crystal Palace,Remi Matthews,32,England,€200k
+Crystal Palace,Jackson Izquierdo,21,England,-
+Crystal Palace,Marc Guéhi,25,England,€70.00m
+Crystal Palace,Maxence Lacroix,26,France,€50.00m
+Crystal Palace,Jaydee Canvot,19,France,€28.00m
+Crystal Palace,Chris Richards,26,United States,€28.00m
+Crystal Palace,Chadi Riad,23,Morocco,€15.00m
+Crystal Palace,George King,19,Ireland,-
+Crystal Palace,Tyrick Mitchell,26,England,€25.00m
+Crystal Palace,Borna Sosa,28,Croatia,€3.00m
+Crystal Palace,Rio Cardines,19,Trinidad and Tobago,€300k
+Crystal Palace,Dean Benamar,18,England,-
+Crystal Palace,Daniel Muñoz,30,Colombia,€22.00m
+Crystal Palace,Caleb Kporha,19,England,€1.00m
+Crystal Palace,Danny Imray,22,England,€800k
+Crystal Palace,Nathaniel Clyne,35,England,€300k
+Crystal Palace,Adam Wharton,22,England,€70.00m
+Crystal Palace,Cheick Doucouré,26,Mali,€10.00m
+Crystal Palace,Jefferson Lerma,31,Colombia,€6.00m
+Crystal Palace,David Ozoh,21,England,€2.20m
+Crystal Palace,Kaden Rodney,21,England,€200k
+Crystal Palace,Daichi Kamada,29,Japan,€10.00m
+Crystal Palace,Will Hughes,31,England,€5.00m
+Crystal Palace,Eberechi Eze,28,England,€65.00m
+Crystal Palace,Justin Devenny,22,Northern Ireland,€12.00m
+Crystal Palace,Yéremy Pino,23,Spain,€30.00m
+Crystal Palace,Ismaïla Sarr,28,Senegal,€40.00m
+Crystal Palace,Brennan Johnson,25,Wales,€30.00m
+Crystal Palace,Evann Guessand,24,Cote d'Ivoire,€25.00m
+Crystal Palace,Romain Esse,21,England,€10.00m
+Crystal Palace,Jesurun Rak-Sakyi,23,Ghana,€6.00m
+Crystal Palace,Joél Drakes-Thomas,17,England,€1.50m
+Crystal Palace,Jørgen Strand Larsen,26,Norway,€40.00m
+Crystal Palace,Jean-Philippe Mateta,29,France,€30.00m
+Crystal Palace,Odsonne Édouard,28,France,€12.00m
+Crystal Palace,Christantus Uche,23,Nigeria,€12.00m
+Crystal Palace,Eddie Nketiah,27,England,€10.00m
+Crystal Palace,Zach Marsh,20,England,-
+Crystal Palace,Ben Casey,18,England,-
+Newcastle United,Aaron Ramsdale,28,England,€12.00m
+Newcastle United,Nick Pope,34,England,€5.00m
+Newcastle United,Aidan Harris,19,England,€200k
+Newcastle United,Max Thompson,21,England,€150k
+Newcastle United,John Ruddy,39,England,€100k
+Newcastle United,Mark Gillespie,34,England,€100k
+Newcastle United,Adam Harrison,19,England,-
+Newcastle United,Malick Thiaw,24,Germany,€45.00m
+Newcastle United,Sven Botman,26,Netherlands,€35.00m
+Newcastle United,Dan Burn,34,England,€4.00m
+Newcastle United,Fabian Schär,34,Switzerland,€4.00m
+Newcastle United,Jamaal Lascelles,32,England,€800k
+Newcastle United,Lewis Hall,21,England,€40.00m
+Newcastle United,Matt Targett,30,England,€3.00m
+Newcastle United,Alex Murphy,22,Ireland,€1.50m
+Newcastle United,Tino Livramento,23,England,€45.00m
+Newcastle United,Kieran Trippier,35,England,€1.50m
+Newcastle United,Harrison Ashby,24,Scotland,€1.20m
+Newcastle United,Emil Krafth,31,Sweden,€750k
+Newcastle United,Leo Shahar,19,England,-
+Newcastle United,Sandro Tonali,26,Italy,€80.00m
+Newcastle United,Bruno Guimarães,28,Brazil,€70.00m
+Newcastle United,Jacob Ramsey,25,England,€35.00m
+Newcastle United,Joelinton,29,Brazil,€25.00m
+Newcastle United,Lewis Miley,20,England,€25.00m
+Newcastle United,Joe Willock,26,England,€14.00m
+Newcastle United,Sam Alabi,16,England,-
+Newcastle United,Joe White,23,England,€200k
+Newcastle United,Anthony Gordon,25,England,€65.00m
+Newcastle United,Harvey Barnes,28,England,€32.00m
+Newcastle United,Seung-soo Park,19,"Korea, South",€200k
+Newcastle United,Anthony Elanga,24,Sweden,€32.00m
+Newcastle United,Jacob Murphy,31,England,€12.00m
+Newcastle United,Nick Woltemade,24,Germany,€55.00m
+Newcastle United,William Osula,22,Denmark,€28.00m
+Newcastle United,Yoane Wissa,29,DR Congo,€25.00m
+Newcastle United,Sean Neave,19,England,-
+AFC Bournemouth,Djordje Petrović,26,Serbia,€28.00m
+AFC Bournemouth,Christos Mandas,24,Greece,€8.00m
+AFC Bournemouth,Cal McKenna,19,Scotland,€500k
+AFC Bournemouth,Fraser Forster,38,England,€400k
+AFC Bournemouth,Will Dennis,25,England,€325k
+AFC Bournemouth,Bafodé Diakité,25,France,€25.00m
+AFC Bournemouth,Marcos Senesi,29,Argentina,€25.00m
+AFC Bournemouth,James Hill,24,England,€23.00m
+AFC Bournemouth,Veljko Milosavljević,19,Serbia,€20.00m
+AFC Bournemouth,Matai Akinmboni,19,United States,€1.00m
+AFC Bournemouth,Owen Bevan,22,Wales,-
+AFC Bournemouth,Adrien Truffert,24,France,€30.00m
+AFC Bournemouth,Julio Soler,21,Argentina,€8.00m
+AFC Bournemouth,Álex Jiménez,21,Spain,€22.00m
+AFC Bournemouth,Julián Araujo,24,Mexico,€8.00m
+AFC Bournemouth,Adam Smith,35,England,€300k
+AFC Bournemouth,Tyler Adams,27,United States,€25.00m
+AFC Bournemouth,Ben Winterburn,21,England,€350k
+AFC Bournemouth,Charlie Stevens,19,Wales,-
+AFC Bournemouth,Malcom Dacosta González,18,Ecuador,-
+AFC Bournemouth,Alex Scott,22,England,€50.00m
+AFC Bournemouth,Alex Tóth,20,Hungary,€12.00m
+AFC Bournemouth,Lewis Cook,29,England,€11.00m
+AFC Bournemouth,Ryan Christie,31,Scotland,€8.00m
+AFC Bournemouth,Philip Billing,30,Denmark,€6.00m
+AFC Bournemouth,Justin Kluivert,27,Netherlands,€25.00m
+AFC Bournemouth,Romain Faivre,27,France,€4.00m
+AFC Bournemouth,Dominic Sadi,22,England,€800k
+AFC Bournemouth,Marcus Tavernier,27,England,€25.00m
+AFC Bournemouth,Amine Adli,26,Morocco,€20.00m
+AFC Bournemouth,Hamed Traoré,26,Cote d'Ivoire,€15.00m
+AFC Bournemouth,Remy Rees-Dottin,20,England,€300k
+AFC Bournemouth,Antoine Semenyo,26,Ghana,€80.00m
+AFC Bournemouth,Rayan,19,Brazil,€60.00m
+AFC Bournemouth,Ben Gannon-Doak,20,Scotland,€15.00m
+AFC Bournemouth,David Brooks,28,Wales,€12.00m
+AFC Bournemouth,Junior Kroupi,20,France,€70.00m
+AFC Bournemouth,Evanilson,26,Brazil,€35.00m
+AFC Bournemouth,Enes Ünal,29,Türkiye,€7.00m
+Nottingham Forest,John Victor,30,Brazil,€5.00m
+Nottingham Forest,Stefan Ortega,33,Germany,€4.00m
+Nottingham Forest,Matz Sels,34,Belgium,€3.50m
+Nottingham Forest,Angus Gunn,30,Scotland,€1.00m
+Nottingham Forest,Aaron Bott,21,England,-
+Nottingham Forest,Keehan Willows,20,England,-
+Nottingham Forest,Murillo,23,Brazil,€50.00m
+Nottingham Forest,Nikola Milenković,28,Serbia,€28.00m
+Nottingham Forest,Jair Cunha,21,Brazil,€15.00m
+Nottingham Forest,Morato,25,Brazil,€14.00m
+Nottingham Forest,Zach Abbott,20,England,€4.00m
+Nottingham Forest,Willy Boly,35,Cote d'Ivoire,€300k
+Nottingham Forest,Jack Thompson,21,Wales,€75k
+Nottingham Forest,Justin Hanks,21,Wales,-
+Nottingham Forest,Neco Williams,25,Wales,€28.00m
+Nottingham Forest,Oleksandr Zinchenko,29,Ukraine,€8.00m
+Nottingham Forest,Luca Netz,23,Germany,€8.00m
+Nottingham Forest,Ola Aina,29,Nigeria,€18.00m
+Nottingham Forest,Nicolò Savona,23,Italy,€15.00m
+Nottingham Forest,Eric da Silva Moreira,20,Germany,€800k
+Nottingham Forest,Elliot Anderson,23,England,€75.00m
+Nottingham Forest,Ibrahim Sangaré,28,Cote d'Ivoire,€20.00m
+Nottingham Forest,Douglas Luiz,28,Brazil,€18.00m
+Nottingham Forest,Nicolás Domínguez,28,Argentina,€15.00m
+Nottingham Forest,Ryan Yates,28,England,€7.00m
+Nottingham Forest,Ben Hammond,21,Wales,-
+Nottingham Forest,Archie Whitehall,20,England,-
+Nottingham Forest,Jimmy Sinclair,19,England,-
+Nottingham Forest,Morgan Gibbs-White,26,England,€70.00m
+Nottingham Forest,James McAtee,23,England,€18.00m
+Nottingham Forest,Callum Hudson-Odoi,25,England,€30.00m
+Nottingham Forest,Jota Silva,26,Portugal,€10.00m
+Nottingham Forest,Zyan Blake,18,England,-
+Nottingham Forest,Dan Ndoye,25,Switzerland,€32.00m
+Nottingham Forest,Omari Hutchinson,22,England,€30.00m
+Nottingham Forest,Dilane Bakwa,23,France,€28.00m
+Nottingham Forest,Igor Jesus,25,Brazil,€25.00m
+Nottingham Forest,Arnaud Kalimuendo,24,France,€25.00m
+Nottingham Forest,Lorenzo Lucca,25,Italy,€20.00m
+Nottingham Forest,Taiwo Awoniyi,28,Nigeria,€8.00m
+Nottingham Forest,Chris Wood,34,New Zealand,€5.00m
+Nottingham Forest,Lamin Sillah,20,The Gambia,-
+Brighton & Hove Albion,Bart Verbruggen,23,Netherlands,€40.00m
+Brighton & Hove Albion,Carl Rushworth,24,England,€16.00m
+Brighton & Hove Albion,James Beadle,21,England,€6.00m
+Brighton & Hove Albion,Jason Steele,35,England,€500k
+Brighton & Hove Albion,Tom McGill,26,Canada,€500k
+Brighton & Hove Albion,Nils Ramming,19,Sweden,€500k
+Brighton & Hove Albion,Jan Paul van Hecke,26,Netherlands,€45.00m
+Brighton & Hove Albion,Diego Coppola,22,Italy,€18.00m
+Brighton & Hove Albion,Olivier Boscagli,28,France,€15.00m
+Brighton & Hove Albion,Igor Julio,28,Brazil,€10.00m
+Brighton & Hove Albion,Eiran Cashin,24,Ireland,€5.00m
+Brighton & Hove Albion,Lewis Dunk,34,England,€3.50m
+Brighton & Hove Albion,Adam Webster,31,England,€3.00m
+Brighton & Hove Albion,Freddie Simmonds,18,England,-
+Brighton & Hove Albion,Ferdi Kadıoğlu,26,Türkiye,€35.00m
+Brighton & Hove Albion,Maxim De Cuyper,25,Belgium,€22.00m
+Brighton & Hove Albion,Mats Wieffer,26,Netherlands,€25.00m
+Brighton & Hove Albion,Tariq Lamptey,25,Ghana,€3.00m
+Brighton & Hove Albion,Joël Veltman,34,Netherlands,€1.50m
+Brighton & Hove Albion,Charlie Tasker,20,England,€200k
+Brighton & Hove Albion,Carlos Baleba,22,Cameroon,€55.00m
+Brighton & Hove Albion,Jack Hinshelwood,21,England,€28.00m
+Brighton & Hove Albion,Yasin Ayari,22,Sweden,€35.00m
+Brighton & Hove Albion,Diego Gómez,23,Paraguay,€25.00m
+Brighton & Hove Albion,Matt O'Riley,25,Denmark,€18.00m
+Brighton & Hove Albion,Malick Yalcouyé,20,Cote d'Ivoire,€12.00m
+Brighton & Hove Albion,Pascal Groß,35,Germany,€2.50m
+Brighton & Hove Albion,James Milner,40,England,€500k
+Brighton & Hove Albion,Joe Knight,20,England,€100k
+Brighton & Hove Albion,Brajan Gruda,22,Germany,€28.00m
+Brighton & Hove Albion,Harry Howell,18,England,€8.00m
+Brighton & Hove Albion,Kaoru Mitoma,29,Japan,€22.00m
+Brighton & Hove Albion,Tommy Watson,20,England,€7.00m
+Brighton & Hove Albion,Ibrahim Osman,21,Ghana,€7.00m
+Brighton & Hove Albion,Nehemiah Oriola,19,England,€200k
+Brighton & Hove Albion,Yankuba Minteh,21,The Gambia,€45.00m
+Brighton & Hove Albion,Amario Cozier-Duberry,21,England,€5.00m
+Brighton & Hove Albion,Solly March,31,England,€1.00m
+Brighton & Hove Albion,Georginio Rutter,24,France,€30.00m
+Brighton & Hove Albion,Charalampos Kostoulas,19,Greece,€25.00m
+Brighton & Hove Albion,Stefanos Tzimas,20,Greece,€18.00m
+Brighton & Hove Albion,Danny Welbeck,35,England,€3.00m
+Aston Villa,Emiliano Martínez,33,Argentina,€12.00m
+Aston Villa,Marco Bizot,35,Netherlands,€1.50m
+Aston Villa,James Wright,21,England,€200k
+Aston Villa,Sam Proctor,19,England,-
+Aston Villa,Ronnie Hollingshead,21,Wales,-
+Aston Villa,Rhys Oakley,17,England,-
+Aston Villa,Ezri Konsa,28,England,€40.00m
+Aston Villa,Pau Torres,29,Spain,€20.00m
+Aston Villa,Victor Lindelöf,31,Sweden,€5.00m
+Aston Villa,Tyrone Mings,33,England,€3.00m
+Aston Villa,TJ Carroll,19,England,-
+Aston Villa,Leon Routh,18,England,-
+Aston Villa,Ian Maatsen,24,Netherlands,€30.00m
+Aston Villa,Lucas Digne,32,France,€6.00m
+Aston Villa,Travis Patterson,20,England,€300k
+Aston Villa,Matty Cash,28,Poland,€22.00m
+Aston Villa,Andrés García,23,Spain,€6.00m
+Aston Villa,Triston Rowe,19,England,€1.50m
+Aston Villa,Amadou Onana,24,Belgium,€45.00m
+Aston Villa,Boubacar Kamara,26,France,€40.00m
+Aston Villa,Lamare Bogarde,22,Netherlands,€18.00m
+Aston Villa,Youri Tielemans,29,Belgium,€30.00m
+Aston Villa,Douglas Luiz,28,Brazil,€18.00m
+Aston Villa,Ross Barkley,32,England,€4.00m
+Aston Villa,Aidan Borland,19,Scotland,€75k
+Aston Villa,Mohamed Koné,18,Cote d'Ivoire,-
+Aston Villa,John McGinn,31,Scotland,€13.00m
+Aston Villa,Morgan Rogers,23,England,€90.00m
+Aston Villa,Harvey Elliott,23,England,€20.00m
+Aston Villa,Emiliano Buendía,29,Argentina,€16.00m
+Aston Villa,Jamaldeen Jimoh-Aloba,19,England,€500k
+Aston Villa,Jadon Sancho,26,England,€18.00m
+Aston Villa,Lewis Dobbin,23,England,€7.00m
+Aston Villa,Samuel Iling-Junior,22,England,€6.50m
+Aston Villa,George Hemmings,19,England,€800k
+Aston Villa,Ben Broggio,19,England,€400k
+Aston Villa,Kadan Young,20,England,€200k
+Aston Villa,Evann Guessand,24,Cote d'Ivoire,€25.00m
+Aston Villa,Leon Bailey,28,Jamaica,€14.00m
+Aston Villa,Alysson,20,Brazil,€10.00m
+Aston Villa,Bradley Burrowes,18,England,€2.00m
+Aston Villa,Donyell Malen,27,Netherlands,€45.00m
+Aston Villa,Ollie Watkins,30,England,€25.00m
+Aston Villa,Tammy Abraham,28,England,€18.00m
+Brentford FC,Caoimhín Kelleher,27,Ireland,€28.00m
+Brentford FC,Hákon Valdimarsson,24,Iceland,€2.50m
+Brentford FC,Matthew Cox,23,England,€700k
+Brentford FC,Ellery Balcombe,26,England,€400k
+Brentford FC,Julian Eyestone,20,United States,-
+Brentford FC,Sepp van den Berg,24,Netherlands,€32.00m
+Brentford FC,Nathan Collins,25,Ireland,€30.00m
+Brentford FC,Kristoffer Ajer,28,Norway,€18.00m
+Brentford FC,Ethan Pinnock,33,Jamaica,€3.00m
+Brentford FC,Benjamin Arthur,20,England,€100k
+Brentford FC,Josh Stephenson,20,England,-
+Brentford FC,Keane Lewis-Potter,25,England,€25.00m
+Brentford FC,Rico Henry,28,Jamaica,€13.00m
+Brentford FC,Jayden Meghoma,20,England,€2.00m
+Brentford FC,Conor McManus,22,Ireland,-
+Brentford FC,Michael Kayode,21,Italy,€40.00m
+Brentford FC,Aaron Hickey,24,Scotland,€16.00m
+Brentford FC,Mads Roerslev,27,Denmark,€4.00m
+Brentford FC,Ollie Shield,19,England,-
+Brentford FC,Vitaly Janelt,28,Germany,€16.00m
+Brentford FC,Yunus Konak,20,Türkiye,€3.50m
+Brentford FC,Yegor Yarmolyuk,22,Ukraine,€32.00m
+Brentford FC,Mathias Jensen,30,Denmark,€10.00m
+Brentford FC,Frank Onyeka,28,Nigeria,€8.00m
+Brentford FC,Josh Dasilva,27,England,€1.50m
+Brentford FC,Jordan Henderson,36,England,€1.20m
+Brentford FC,Ryan Trevitt,23,England,€275k
+Brentford FC,Riley Owen,20,England,-
+Brentford FC,Mikkel Damsgaard,25,Denmark,€30.00m
+Brentford FC,Antoni Milambo,21,Netherlands,€15.00m
+Brentford FC,Fábio Carvalho,23,Portugal,€8.00m
+Brentford FC,Myles Peart-Harris,23,Jamaica,€900k
+Brentford FC,Luka Bentt,18,Belgium,-
+Brentford FC,Kevin Schade,24,Germany,€35.00m
+Brentford FC,Gustavo Nunes,20,Brazil,€8.00m
+Brentford FC,Reiss Nelson,26,England,€8.00m
+Brentford FC,Dango Ouattara,24,Burkina Faso,€35.00m
+Brentford FC,Romelle Donovan,19,England,€3.50m
+Brentford FC,Igor Thiago,25,Brazil,€65.00m
+Brentford FC,Kaye Furo,19,Belgium,€8.00m
+West Ham United,Mads Hermansen,25,Denmark,€15.00m
+West Ham United,Alphonse Areola,33,France,€4.00m
+West Ham United,Wes Foderingham,35,England,€275k
+West Ham United,Łukasz Fabiański,41,Poland,€150k
+West Ham United,Finlay Herrick,20,England,-
+West Ham United,Jean-Clair Todibo,26,France,€22.00m
+West Ham United,Konstantinos Mavropanos,28,Greece,€18.00m
+West Ham United,Nayef Aguerd,30,Morocco,€15.00m
+West Ham United,Axel Disasi,28,France,€15.00m
+West Ham United,Maximilian Kilman,29,England,€13.00m
+West Ham United,Igor Julio,28,Brazil,€10.00m
+West Ham United,Ezra Mayers,19,England,€2.00m
+West Ham United,Airidas Golambeckis,18,England,-
+West Ham United,El Hadji Malick Diouf,21,Senegal,€28.00m
+West Ham United,Oliver Scarles,20,England,€10.00m
+West Ham United,Aaron Wan-Bissaka,28,DR Congo,€15.00m
+West Ham United,Kyle Walker-Peters,29,England,€12.00m
+West Ham United,Soungoutou Magassa,22,France,€17.00m
+West Ham United,Edson Álvarez,28,Mexico,€15.00m
+West Ham United,Tomáš Souček,31,Czech Republic,€10.00m
+West Ham United,Freddie Potts,22,England,€10.00m
+West Ham United,Guido Rodríguez,32,Argentina,€4.00m
+West Ham United,Mohamadou Kanté,20,France,€1.00m
+West Ham United,Mateus Fernandes,21,Portugal,€50.00m
+West Ham United,James Ward-Prowse,31,England,€5.00m
+West Ham United,Andrew Irving,26,Scotland,€4.50m
+West Ham United,Lewis Orford,20,England,€300k
+West Ham United,Lucas Paquetá,28,Brazil,€32.00m
+West Ham United,George Earthy,21,England,€1.80m
+West Ham United,Crysencio Summerville,24,Netherlands,€35.00m
+West Ham United,Keiber Lamadrid,22,Venezuela,€1.20m
+West Ham United,Jarrod Bowen,29,England,€30.00m
+West Ham United,Luís Guilherme,20,Brazil,€12.00m
+West Ham United,Adama Traoré,30,Spain,€6.00m
+West Ham United,Taty Castellanos,27,Argentina,€28.00m
+West Ham United,Pablo,22,Brazil,€18.00m
+West Ham United,Callum Wilson,34,England,€4.00m
+West Ham United,Niclas Füllkrug,33,Germany,€3.50m
+West Ham United,Callum Marshall,21,Northern Ireland,€2.00m
+West Ham United,Joshua Ajala,19,England,-
+Everton FC,Jordan Pickford,32,England,€13.00m
+Everton FC,Mark Travers,27,Ireland,€3.00m
+Everton FC,Harry Tyrer,24,England,€400k
+Everton FC,Tom King,31,Wales,€100k
+Everton FC,Jarrad Branthwaite,24,England,€40.00m
+Everton FC,James Tarkowski,33,England,€5.00m
+Everton FC,Michael Keane,33,England,€3.00m
+Everton FC,Reece Welch,22,England,€250k
+Everton FC,Elijah Campbell,21,England,€250k
+Everton FC,Vitaliy Mykolenko,27,Ukraine,€25.00m
+Everton FC,Adam Aznou,20,Morocco,€6.00m
+Everton FC,Jake O'Brien,25,Ireland,€18.00m
+Everton FC,Nathan Patterson,24,Scotland,€10.00m
+Everton FC,Séamus Coleman,37,Ireland,€200k
+Everton FC,James Garner,25,England,€45.00m
+Everton FC,Idrissa Gueye,36,Senegal,€500k
+Everton FC,Tim Iroegbunam,23,England,€18.00m
+Everton FC,Merlin Röhl,23,Germany,€16.00m
+Everton FC,Charly Alcaraz,23,Argentina,€15.00m
+Everton FC,Harrison Armstrong,19,England,€12.00m
+Everton FC,Tyler Onyango,23,England,€350k
+Everton FC,Callum Bates,20,England,-
+Everton FC,Malik Olayiwola,17,England,-
+Everton FC,Kiernan Dewsbury-Hall,27,England,€35.00m
+Everton FC,Iliman Ndiaye,26,Senegal,€55.00m
+Everton FC,Jack Grealish,30,England,€20.00m
+Everton FC,Tyrique George,20,England,€20.00m
+Everton FC,Dwight McNeil,26,England,€18.00m
+Everton FC,Tyler Dibling,20,England,€17.00m
+Everton FC,Thierno Barry,23,France,€30.00m
+Everton FC,Beto,28,Guinea-Bissau,€18.00m
+Everton FC,Youssef Chermiti,22,Portugal,€15.00m
+Everton FC,Braiden Graham,18,Northern Ireland,€200k
+Sunderland AFC,Robin Roefs,23,Netherlands,€28.00m
+Sunderland AFC,Anthony Patterson,26,England,€8.00m
+Sunderland AFC,Melker Ellborg,23,Sweden,€3.00m
+Sunderland AFC,Simon Moore,36,England,€75k
+Sunderland AFC,Dan Ballard,26,Northern Ireland,€20.00m
+Sunderland AFC,Lutsharel Geertruida,25,Netherlands,€20.00m
+Sunderland AFC,Omar Alderete,29,Paraguay,€13.00m
+Sunderland AFC,Jenson Seelt,23,Netherlands,€5.00m
+Sunderland AFC,Leo Hjelde,22,Norway,€1.50m
+Sunderland AFC,Luke O'Nien,31,England,€700k
+Sunderland AFC,Denniss Cirkins,24,Latvia,€6.00m
+Sunderland AFC,Reinildo Mandava,32,Mozambique,€4.00m
+Sunderland AFC,Arthur Masuaku,32,DR Congo,€2.00m
+Sunderland AFC,Trai Hume,24,Northern Ireland,€22.00m
+Sunderland AFC,Nordi Mukiele,28,France,€16.00m
+Sunderland AFC,Niall Huggins,25,Wales,€600k
+Sunderland AFC,Jenson Jones,20,England,-
+Sunderland AFC,Granit Xhaka,33,Switzerland,€8.00m
+Sunderland AFC,Habib Diarra,22,Senegal,€35.00m
+Sunderland AFC,Noah Sadiki,21,DR Congo,€35.00m
+Sunderland AFC,Enzo Le Fée,26,France,€28.00m
+Sunderland AFC,Dan Neil,24,England,€4.50m
+Sunderland AFC,Ben Middlemas,21,England,€50k
+Sunderland AFC,Jaydon Jones,19,England,-
+Sunderland AFC,Chris Rigg,19,England,€25.00m
+Sunderland AFC,Milan Aleksic,20,Serbia,€700k
+Sunderland AFC,Harrison Jones,21,England,€150k
+Sunderland AFC,Jack Whittaker,19,England,-
+Sunderland AFC,Simon Adingra,24,Cote d'Ivoire,€22.00m
+Sunderland AFC,Nilson Angulo,23,Ecuador,€17.00m
+Sunderland AFC,Romaine Mundle,23,England,€7.00m
+Sunderland AFC,Timur Tuterov,21,Ukraine,€300k
+Sunderland AFC,Chemsdine Talbi,21,Morocco,€25.00m
+Sunderland AFC,Patrick Roberts,29,England,€4.00m
+Sunderland AFC,Bertrand Traoré,30,Burkina Faso,€4.00m
+Sunderland AFC,Jocelin Ta Bi,21,Cote d'Ivoire,€2.50m
+Sunderland AFC,Abdoullah Ba,22,Mauritania,€1.50m
+Sunderland AFC,Brian Brobbey,24,Netherlands,€30.00m
+Sunderland AFC,Wilson Isidor,25,Haiti,€18.00m
+Sunderland AFC,Eliezer Mayenda,21,Spain,€16.00m
+Sunderland AFC,Marc Guiu,20,Spain,€12.00m
+Sunderland AFC,Ahmed Abdullahi,22,Nigeria,€800k
+Sunderland AFC,Finn Geragusyan,18,Armenia,€300k
+Wolverhampton Wanderers,José Sá,33,Portugal,€3.50m
+Wolverhampton Wanderers,Sam Johnstone,33,England,€2.00m
+Wolverhampton Wanderers,Dan Bentley,32,England,€800k
+Wolverhampton Wanderers,Alfie Brooks,22,England,-
+Wolverhampton Wanderers,Josh Gracey,18,Northern Ireland,-
+Wolverhampton Wanderers,Ladislav Krejci,27,Czech Republic,€22.00m
+Wolverhampton Wanderers,Toti,27,Portugal,€18.00m
+Wolverhampton Wanderers,Emmanuel Agbadou,29,Cote d'Ivoire,€16.00m
+Wolverhampton Wanderers,Yerson Mosquera,25,Colombia,€12.00m
+Wolverhampton Wanderers,Santiago Bueno,27,Uruguay,€10.00m
+Wolverhampton Wanderers,Nasser Djiga,23,Burkina Faso,€6.00m
+Wolverhampton Wanderers,Alfie Pond,22,England,€250k
+Wolverhampton Wanderers,Temple Ojinnaka,21,Italy,€50k
+Wolverhampton Wanderers,Saheed Olagunju,19,England,-
+Wolverhampton Wanderers,Hugo Bueno,23,Spain,€12.00m
+Wolverhampton Wanderers,David Møller Wolfe,24,Norway,€8.00m
+Wolverhampton Wanderers,Jackson Tchatchoua,24,Cameroon,€12.00m
+Wolverhampton Wanderers,Pedro Lima,19,Brazil,€4.00m
+Wolverhampton Wanderers,Ki-Jana Hoever,24,Netherlands,€3.50m
+Wolverhampton Wanderers,Matt Doherty,34,Ireland,€1.00m
+Wolverhampton Wanderers,André,24,Brazil,€25.00m
+Wolverhampton Wanderers,Luke Rawlings,18,England,-
+Wolverhampton Wanderers,Jerome Abbey,16,England,-
+Wolverhampton Wanderers,João Gomes,25,Brazil,€40.00m
+Wolverhampton Wanderers,Jean-Ricner Bellegarde,28,Haiti,€16.00m
+Wolverhampton Wanderers,Marshall Munetsi,30,Zimbabwe,€15.00m
+Wolverhampton Wanderers,Tommy Doyle,24,England,€7.00m
+Wolverhampton Wanderers,Ethan Sutherland,20,Scotland,-
+Wolverhampton Wanderers,Fer López,22,Spain,€16.00m
+Wolverhampton Wanderers,Angel Gomes,25,England,€10.00m
+Wolverhampton Wanderers,Tawanda Chirewa,22,Zimbabwe,€450k
+Wolverhampton Wanderers,Mateus Mané,18,Portugal,€20.00m
+Wolverhampton Wanderers,Enso González,21,Paraguay,€2.50m
+Wolverhampton Wanderers,Jhon Arias,28,Colombia,€15.00m
+Wolverhampton Wanderers,Rodrigo Gomes,22,Portugal,€15.00m
+Wolverhampton Wanderers,Tom Edozie,20,England,€200k
+Wolverhampton Wanderers,Jørgen Strand Larsen,26,Norway,€40.00m
+Wolverhampton Wanderers,Tolu Arokodare,25,Nigeria,€20.00m
+Wolverhampton Wanderers,Adam Armstrong,29,England,€6.00m
+Wolverhampton Wanderers,Hee-chan Hwang,30,"Korea, South",€6.00m
+Wolverhampton Wanderers,Sasa Kalajdzic,28,Austria,€4.00m
+Wolverhampton Wanderers,Nathan Fraser,21,Ireland,€600k
+Fulham FC,Bernd Leno,34,Germany,€6.00m
+Fulham FC,Benjamin Lecomte,35,France,€800k
+Fulham FC,Alfie McNally,21,England,-
+Fulham FC,Calvin Bassey,26,Nigeria,€28.00m
+Fulham FC,Joachim Andersen,30,Denmark,€20.00m
+Fulham FC,Jorge Cuenca,26,Spain,€8.00m
+Fulham FC,Issa Diop,29,Morocco,€8.00m
+Fulham FC,Sam Amissah,19,England,-
+Fulham FC,Ryan Sessegnon,26,England,€22.00m
+Fulham FC,Antonee Robinson,28,United States,€22.00m
+Fulham FC,Kenny Tete,30,Netherlands,€8.00m
+Fulham FC,Timothy Castagne,30,Belgium,€8.00m
+Fulham FC,Sander Berge,28,Norway,€25.00m
+Fulham FC,Alex Iwobi,30,Nigeria,€20.00m
+Fulham FC,Andreas Pereira,30,Brazil,€14.00m
+Fulham FC,Saša Lukić,29,Serbia,€10.00m
+Fulham FC,Harrison Reed,31,England,€2.00m
+Fulham FC,Tom Cairney,35,Scotland,€500k
+Fulham FC,Seth Ridgeon,17,England,-
+Fulham FC,Josh King,19,England,€25.00m
+Fulham FC,Emile Smith Rowe,25,England,€20.00m
+Fulham FC,Luke Harris,21,Wales,€900k
+Fulham FC,Kevin,23,Brazil,€25.00m
+Fulham FC,Oscar Bobb,22,Norway,€28.00m
+Fulham FC,Harry Wilson,29,Wales,€25.00m
+Fulham FC,Samuel Chukwueze,27,Nigeria,€18.00m
+Fulham FC,Adama Traoré,30,Spain,€6.00m
+Fulham FC,Rodrigo Muniz,25,Brazil,€20.00m
+Fulham FC,Raúl Jiménez,35,Mexico,€3.00m
+Fulham FC,Jonah Kusi-Asare,18,Sweden,€3.00m
+Leeds United,Lucas Perri,28,Brazil,€10.00m
+Leeds United,Illan Meslier,26,France,€8.00m
+Leeds United,Karl Darlow,35,Wales,€200k
+Leeds United,Alex Cairns,33,England,€50k
+Leeds United,Pascal Struijk,26,Netherlands,€22.00m
+Leeds United,Jaka Bijol,27,Slovenia,€20.00m
+Leeds United,Joe Rodon,28,Wales,€18.00m
+Leeds United,Sebastiaan Bornauw,27,Belgium,€8.00m
+Leeds United,Gabriel Gudmundsson,27,Sweden,€20.00m
+Leeds United,Jayden Lienou,18,Wales,-
+Leeds United,Jayden Bogle,25,England,€15.00m
+Leeds United,James Justin,28,England,€12.00m
+Leeds United,Sam Byram,32,England,€400k
+Leeds United,Ethan Ampadu,25,Wales,€30.00m
+Leeds United,Anton Stach,27,Germany,€28.00m
+Leeds United,Ilia Gruev,26,Bulgaria,€12.00m
+Leeds United,Charlie Crew,20,Wales,€150k
+Leeds United,Rhys Chadwick,19,England,-
+Leeds United,Sean Longstaff,28,England,€15.00m
+Leeds United,Ao Tanaka,27,Japan,€13.00m
+Leeds United,Alfie Cresswell,18,England,-
+Leeds United,Brenden Aaronson,25,United States,€22.00m
+Leeds United,Facundo Buonanotte,21,Argentina,€12.00m
+Leeds United,Sam Chambers,18,Scotland,€200k
+Leeds United,Noah Okafor,26,Switzerland,€25.00m
+Leeds United,Largie Ramazani,25,Belgium,€8.00m
+Leeds United,Jack Harrison,29,England,€6.50m
+Leeds United,Wilfried Gnonto,22,Italy,€16.00m
+Leeds United,Daniel James,28,Wales,€10.00m
+Leeds United,Dominic Calvert-Lewin,29,England,€22.00m
+Leeds United,Joël Piroe,26,Suriname,€10.00m
+Leeds United,Lukas Nmecha,27,Germany,€10.00m
+Leeds United,Harry Gray,17,England,€700k
+Burnley FC,Max Weiß,22,Germany,€4.00m
+Burnley FC,Martin Dúbravka,37,Slovakia,€500k
+Burnley FC,Václav Hladký,35,Czech Republic,€150k
+Burnley FC,Maxime Estève,24,France,€28.00m
+Burnley FC,Bashir Humphreys,23,England,€12.00m
+Burnley FC,Axel Tuanzebe,28,DR Congo,€5.00m
+Burnley FC,Hjalmar Ekdal,27,Sweden,€5.00m
+Burnley FC,Hannes Delcroix,27,Haiti,€2.00m
+Burnley FC,Joe Worrall,29,England,€2.00m
+Burnley FC,Jordan Beyer,26,Germany,€1.50m
+Burnley FC,Murray Campbell,19,Scotland,-
+Burnley FC,Quilindschy Hartman,24,Netherlands,€16.00m
+Burnley FC,Lucas Pires,25,Brazil,€4.00m
+Burnley FC,Oliver Pimlott,19,England,-
+Burnley FC,Oliver Sonne,25,Peru,€4.00m
+Burnley FC,Kyle Walker,36,England,€1.50m
+Burnley FC,Connor Roberts,30,Wales,€1.50m
+Burnley FC,Lesley Ugochukwu,22,France,€22.00m
+Burnley FC,Florentino,26,Portugal,€16.00m
+Burnley FC,Marley Leuluai,19,New Zealand,-
+Burnley FC,James Ward-Prowse,31,England,€5.00m
+Burnley FC,Josh Cullen,30,Ireland,€4.00m
+Burnley FC,Josh Laurent,31,England,€1.50m
+Burnley FC,Ellis Clark,19,Scotland,-
+Burnley FC,George Brierley,18,England,-
+Burnley FC,Hannibal,23,Tunisia,€15.00m
+Burnley FC,Aaron Ramsey,23,England,€6.00m
+Burnley FC,Mike Tresor,27,Belgium,€2.00m
+Burnley FC,Jaidon Anthony,26,England,€20.00m
+Burnley FC,Jacob Bruun Larsen,27,Denmark,€4.00m
+Burnley FC,Jaydon Banel,21,Netherlands,€1.00m
+Burnley FC,Tom Tweedy,21,Wales,-
+Burnley FC,Brandon Pouani,18,England,-
+Burnley FC,Loum Tchaouna,22,France,€13.00m
+Burnley FC,Marcus Edwards,27,Cyprus,€6.00m
+Burnley FC,Enock Agyei,21,Belgium,€600k
+Burnley FC,Zian Flemming,27,Netherlands,€12.00m
+Burnley FC,Lyle Foster,25,South Africa,€8.00m
+Burnley FC,Zeki Amdouni,25,Switzerland,€7.00m
+Burnley FC,Armando Broja,24,Albania,€5.00m
+Burnley FC,Michael Obafemi,25,Ireland,€600k
+Burnley FC,Ashley Barnes,36,England,€150k
+Burnley FC,Kian McMahon-Brown,17,Ireland,-
